@@ -1,8 +1,7 @@
 ---
 layout: about
-title: About
+title: About Me
 permalink: /
-subtitle: <p style="text-align:center;"><strong>Rajesh Kumar</strong></p> 
 
 profile:
   align: right
