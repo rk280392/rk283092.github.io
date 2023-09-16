@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - rk280392
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - rk280392/pulumi-infra-as-code
+  - rk280392/golang-practice
+  - rk280392/azure-pipeline-with-docker
+  - rk280392/speedtest-golang
+  - rk283092/kube-federation
+  - rk280392/nginx-reverse-proxy
+  - rk280392/vagrant-kubeadm-k8s
