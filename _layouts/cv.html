@@ -52,7 +52,7 @@ layout: default
     {% if page.description %}<p class="post-description">{{ page.description }}</p>{% endif %}
   </header>
 
-  <h4>Table of contents</h4>
+  <h3 class="card-title font-weight-medium">Table of contents</h3>
   <ul class="timeline">
   {% for entry in site.data.resume %}
     {% if site.jsonresume and site.jsonresume.size > 0 %}

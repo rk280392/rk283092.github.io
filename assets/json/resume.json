@@ -1,74 +1,140 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Rajesh Kumar",
+    "label": "Site Reliability Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "rk90229@gmail.com",
+    "phone": "",
+    "url": "",
+    "summary": "I am a Certified Kubernetes Administrator with 8+ years of experience in the IT industry, working with various software containerization and orchestration platforms, source code management tools, automation and integration tools, and cloud service providers",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Pune",
+      "countryCode": "+91",
+      "region": "Maharashtra"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Linkedin",
+        "username": "rajesh-kumar-624082ab",
+        "url": "https://www.linkedin.com/in/rajesh-kumar-624082ab/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Infracloud Technologies",
+      "position": "Customer Success Engineer",
+      "url": "",
+      "startDate": "Apr 2022",
+      "endDate": "",
+      "summary": " I help clients adopt and optimize cloud-native technologies such as Kubernetes, GitOps, Service Mesh, and Istio. I have successfully delivered multiple projects involving installation, configuration, automation, and troubleshooting of these tools, using my skills in Linux, Docker, Ansible, Terraform, Golang, Python, and Shell scripting.",
       "highlights": [
-        "Relativity"
+        "SRE"
+      ]
+    },
+    {
+      "name": "Betsol",
+      "position": "Senior System Engineer",
+      "url": "",
+      "startDate": "June 2020",
+      "endDate": "Apr 2022",
+      "summary": "TODO",
+      "highlights": [
+        "Linux",
+	"Python",
+	"AWS"
+      ]
+    },
+    {
+      "name": "Indio Networks",
+      "position": "Senior Support Engineer",
+      "url": "",
+      "startDate": "Aug 2015",
+      "endDate": "June 2020",
+      "summary": "TODO",
+      "highlights": [
+        "Linux",
+	"Scripting",
+	"Networking"
       ]
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "MJRP University",
+      "url": "",
+      "area": "Electronics and Communication",
+      "studyType": "B.Tech",
+      "startDate": "2010-08-01",
+      "endDate": "2014-07-020",
       "score": "",
-      "courses": [
-        "Theory of Relativity"
-      ]
+      "courses": []
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [],
-  "publications": [],
-  "skills": [],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker"
+      "title": "Customer Delight Awards",
+      "date": "Aug 2023",
+      "awarder": "Infracloud",
+      "summary": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent"
+      "title": "Spot Award",
+      "date": "Oct 2021",
+      "awarder": "Betsol",
+      "summary": ""
+    },
+    {
+      "title": "Employee of the year for Excellence",
+      "date": "Sept 2018",
+      "awarder": "Indio Networks",
+      "summary": ""
+    },
+    {
+      "title": "Employee of the year for Commitment",
+      "date": "Sept 2017",
+      "awarder": "Indio Networks",
+      "summary": ""
+    },
+    {
+      "title": "Employee of the year for Passion",
+      "date": "Sept 2016",
+      "awarder": "Indio Networks",
+      "summary": ""
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certified Kubernetes Administrator",
+      "url": "https://www.credly.com/badges/4c42212d-0263-43dd-852e-e95ba59fddd0/public_url",
+      "issuer": "The Linux Foundation",
+      "date": "June 2023"
+    },
+    {
+      "name": "SUSE Certified Deployment Specialist in SUSE NeuVector 5",
+      "issuer": "SUSE NeuVector",
+      "date": "June 2023"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name":"Kubernetes"
+    },
+    {
+      "name":"Linux"
+    },
+    {
+      "name":"Terraform"
+    },
+    {
+      "name":"GitOps"
+    },
+    {
+      "name":"GoLang"
     }
   ],
   "interests": [],

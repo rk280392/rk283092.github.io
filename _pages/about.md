@@ -2,25 +2,23 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <p style="text-align:center;"><strong>Rajesh Kumar</strong></p> 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Pune, Maharshtra, India</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Customer Success Engineer at InfraCloud Technologies, where my passion lies in helping clients embrace and optimize cutting-edge cloud-native technologies. My expertise extends to Kubernetes, GitOps, Service Mesh, and Istio. Throughout my career, I've successfully delivered multiple projects, involving the installation, configuration, automation, and troubleshooting of these tools, leveraging my proficiency in Linux, Docker, Ansible, Terraform, Golang, Python, and Shell scripting.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+With over 8 years of experience in the IT industry, I hold the prestigious title of Certified Kubernetes Administrator. My journey has led me to work with diverse software containerization and orchestration platforms, source code management tools, automation and integration solutions, and various cloud service providers. My commitment to staying at the forefront of technology and my enthusiasm for solving intricate challenges drive me forward. I take pleasure in collaborating with fellow engineers, sharing knowledge, and have been recognized with multiple awards for my performance, dedication, and excellence in previous roles.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I earned my Bachelor of Engineering degree in Electronics and Communications Engineering from MJRP University, India, and my academic foundation has played a crucial role in shaping my career.

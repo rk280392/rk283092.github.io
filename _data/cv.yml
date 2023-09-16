@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Rajesh Kumar
     - name: Date of Birth
-      value: 14th March 1879
+      value: 2nd Feb 1992
     - name: Languages
-      value: English, German
+      value: English, Hindi
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: B.Tech
+      institution: MJRP University
+      year: 2014
       description:
         - Description 1.
         - Description 2.
@@ -21,19 +21,13 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Customer Success Engineer 
+      institution: Infracloud Technologies 
+      year: April 2022 -
       description:
         - Description 1.
         - Description 2.
@@ -41,25 +35,17 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+    - title: Senior System Engineer
+      institution: Betsol
+      year: Jun 2020 - April 2022
       description:
         - Description 1.
         - Description 2.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Senior Support Engineer
+      institution: Indio Networks
+      year: July 2015 - June 2020
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
 
 - title: Open Source Projects
   type: time_table
@@ -71,27 +57,35 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Customer Delight Awards
+    - year: 2021
       items: 
-        - Max Planck Medal
+        - Spot award
+    - year: 2018
+      items:
+        - Employee of the year for Excellence
+    - year: 2017
+      items:
+        - Employee of the year for Commitment
+    - year: 2016
+      items:
+        - Employee of the year for Passion
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Topic 1. Kubernetes
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Description 1. k8s1
+        - Description 2. k8s2
+    - title: Topic 2. Linux
       items:
-        - Description 1.
-        - Description 2.
+        - Description 1. li1
+        - Description 2. li2
 
-- title: Other Interests
+- title: Skills
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Skills:</u> Kubernetes, Linux, SRE, DevOps, GitOps, Terraform, GoLang, AWS EKS.
