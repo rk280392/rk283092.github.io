@@ -4,7 +4,7 @@ title: About Me
 permalink: /
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: 
@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<div style="text-align: justify; width: 500px;">
+<div style="text-align: justify;">
   <p>
     I am a Customer Success Engineer at InfraCloud Technologies, where my passion lies in helping clients embrace and optimize cutting-edge cloud-native technologies. My expertise extends to Kubernetes, GitOps, Service Mesh, and Istio. Throughout my career, I've successfully delivered multiple projects, involving the installation, configuration, automation, and troubleshooting of these tools, leveraging my proficiency in Linux, Docker, Ansible, Terraform, Golang, Python, and Shell scripting.
   </p>

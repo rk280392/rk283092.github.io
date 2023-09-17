@@ -119,9 +119,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: LearningDevOps # blog_name will be displayed in your blog page
+blog_name: Learning DevOps # blog_name will be displayed in your blog page
 blog_nav_title: Blogs # your blog must have a title for it to be displayed in the nav bar
-blog_description: 
+blog_description: Let's embark on a DevOps learning journey together, mastering the art of seamless collaboration and automation. 
 permalink: /blog/:year/:title/
 
 # Pagination
