@@ -6,6 +6,5 @@ github_repos:
   - rk280392/golang-practice
   - rk280392/azure-pipeline-with-docker
   - rk280392/speedtest-golang
-  - rk283092/kube-federation
   - rk280392/nginx-reverse-proxy
   - rk280392/vagrant-kubeadm-k8s
